@@ -146,12 +146,8 @@ h1 {
   background-color: hsl(216, 11%, 30%);
 }
 
-.show {
-  display: block;
-}
 
 .hide {
-  /* display: none; */
   visibility: hidden;
   opacity: 0;
   width: 0;
@@ -219,19 +215,19 @@ footer {
   }
 
   .card .buttons {
-    margin-top: 1.5rem;
+    margin-top: 1.65rem;
   }
 
  .card .buttons button, .star-icon-wrapper {
-  height: 2.75rem;
-  width: 2.75rem;
+  height: 2.85rem;
+  width: 2.85rem;
  }
 
  .card .submit-button-wrapper {
-   margin-top: 1.75rem;
+   margin-top: 1.85rem;
  }
  .card .submit-button-wrapper button {
-  height: 2.5rem;
+  height: 2.65rem;
  }
 
  footer {
